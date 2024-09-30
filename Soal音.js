@@ -27,70 +27,70 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_20 = function() {
+(lib.CachedBmp_30 = function() {
 	this.initialize(ss["Soal音_atlas_1"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_19 = function() {
+(lib.CachedBmp_29 = function() {
 	this.initialize(ss["Soal音_atlas_1"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_18 = function() {
+(lib.CachedBmp_28 = function() {
 	this.initialize(ss["Soal音_atlas_1"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_17 = function() {
+(lib.CachedBmp_27 = function() {
 	this.initialize(ss["Soal音_atlas_1"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_16 = function() {
+(lib.CachedBmp_26 = function() {
 	this.initialize(ss["Soal音_atlas_1"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_15 = function() {
+(lib.CachedBmp_25 = function() {
 	this.initialize(ss["Soal音_atlas_1"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_14 = function() {
+(lib.CachedBmp_24 = function() {
 	this.initialize(ss["Soal音_atlas_1"]);
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_13 = function() {
+(lib.CachedBmp_23 = function() {
 	this.initialize(ss["Soal音_atlas_1"]);
 	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_12 = function() {
+(lib.CachedBmp_22 = function() {
 	this.initialize(ss["Soal音_atlas_1"]);
 	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_11 = function() {
+(lib.CachedBmp_21 = function() {
 	this.initialize(ss["Soal音_atlas_1"]);
 	this.gotoAndStop(9);
 }).prototype = p = new cjs.Sprite();
@@ -153,7 +153,7 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// Layer_3
-	this.instance = new lib.CachedBmp_20();
+	this.instance = new lib.CachedBmp_30();
 	this.instance.setTransform(-78.15,-29.8,0.3333,0.3333);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(3));
@@ -289,7 +289,7 @@ if (reversed == null) { reversed = false; }
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.shape_2},{t:this.shape_1},{t:this.shape}]}).to({state:[{t:this.shape_4},{t:this.shape_1},{t:this.shape_3}]},1).to({state:[{t:this.shape_6},{t:this.shape_1},{t:this.shape_5}]},1).to({state:[{t:this.shape_8},{t:this.shape_1},{t:this.shape_7}]},1).to({state:[{t:this.shape_10},{t:this.shape_1},{t:this.shape_9}]},1).to({state:[{t:this.shape_12},{t:this.shape_1},{t:this.shape_11}]},1).to({state:[{t:this.shape_14},{t:this.shape_1},{t:this.shape_13}]},1).to({state:[{t:this.shape_16},{t:this.shape_1},{t:this.shape_15}]},1).to({state:[{t:this.shape_18},{t:this.shape_1},{t:this.shape_17}]},1).to({state:[{t:this.shape_20},{t:this.shape_1},{t:this.shape_19}]},1).to({state:[{t:this.shape_22},{t:this.shape_1},{t:this.shape_21}]},1).to({state:[{t:this.shape_24},{t:this.shape_1},{t:this.shape_23}]},1).to({state:[{t:this.shape_26},{t:this.shape_1},{t:this.shape_25}]},1).wait(1));
 
 	// Layer_2
-	this.instance = new lib.CachedBmp_19();
+	this.instance = new lib.CachedBmp_29();
 	this.instance.setTransform(-38.75,-44.6,0.3042,0.3042);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(13));
@@ -407,25 +407,25 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// Layer_2
-	this.instance = new lib.CachedBmp_13();
+	this.instance = new lib.CachedBmp_23();
 	this.instance.setTransform(-137.55,50.15,0.3125,0.3125);
 
-	this.instance_1 = new lib.CachedBmp_12();
+	this.instance_1 = new lib.CachedBmp_22();
 	this.instance_1.setTransform(-39.15,-70.2,0.3125,0.3125);
 
-	this.instance_2 = new lib.CachedBmp_15();
+	this.instance_2 = new lib.CachedBmp_25();
 	this.instance_2.setTransform(-141.15,49.25,0.3125,0.3125);
 
-	this.instance_3 = new lib.CachedBmp_14();
+	this.instance_3 = new lib.CachedBmp_24();
 	this.instance_3.setTransform(-39.15,-70.2,0.3125,0.3125);
 
-	this.instance_4 = new lib.CachedBmp_16();
+	this.instance_4 = new lib.CachedBmp_26();
 	this.instance_4.setTransform(-92.05,58.3,0.3125,0.3125);
 
 	this.instance_5 = new lib.waktuhabis();
 	this.instance_5.setTransform(-151,-73,0.8287,0.8505);
 
-	this.instance_6 = new lib.CachedBmp_17();
+	this.instance_6 = new lib.CachedBmp_27();
 	this.instance_6.setTransform(-63.55,52,0.3125,0.3125);
 
 	this.instance_7 = new lib.selesai();
@@ -445,7 +445,7 @@ if (reversed == null) { reversed = false; }
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[]}).to({state:[{t:this.shape_1},{t:this.shape}]},1).wait(4));
 
 	// Layer_1
-	this.instance_8 = new lib.CachedBmp_18();
+	this.instance_8 = new lib.CachedBmp_28();
 	this.instance_8.setTransform(-93.3,-33,0.3125,0.3125);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_8).to({_off:true},1).wait(4));
@@ -682,7 +682,8 @@ if (reversed == null) { reversed = false; }
 		var ob = this;
 		mpi.kuis("kuisMC", soal, 2, selesaiKuis);
 		ob.kuisMC.opsi = "A";
-		ob.kuisMC.suaraSoal = "bgm";
+		ob.kuisMC.suaraBenar = "dui";
+		ob.kuisMC.suaraSalah = "cuo";
 		/* untuk suara kuis, pastikan suara memiliki linkage
 		ob.kuisMC.suaraSoal = "";
 		ob.kuisMC.suaraBenar = "";
@@ -703,7 +704,7 @@ if (reversed == null) { reversed = false; }
 	}
 
 	// actions tween:
-	this.timeline.addTween(cjs.Tween.get(this).call(this.frame_0).wait(5).call(this.frame_5).wait(4).call(this.frame_9).wait(3));
+	this.timeline.addTween(cjs.Tween.get(this).call(this.frame_0).wait(5).call(this.frame_5).wait(4).call(this.frame_9).wait(4));
 
 	// asset
 	this.mulaiBtn = new lib.tombol_mulai();
@@ -711,7 +712,7 @@ if (reversed == null) { reversed = false; }
 	this.mulaiBtn.setTransform(732.4,524,1.5,1.5);
 	new cjs.ButtonHelper(this.mulaiBtn, 0, 1, 2);
 
-	this.instance = new lib.CachedBmp_11();
+	this.instance = new lib.CachedBmp_21();
 	this.instance.setTransform(354.2,229.2,0.5,0.5);
 
 	this.timerKuis = new lib.timerMC2();
@@ -722,14 +723,14 @@ if (reversed == null) { reversed = false; }
 	this.kuisMC.name = "kuisMC";
 	this.kuisMC.setTransform(721,358.8,1.6,1.5999);
 
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[]}).to({state:[{t:this.instance},{t:this.mulaiBtn}]},5).to({state:[{t:this.kuisMC},{t:this.timerKuis}]},4).to({state:[]},1).wait(2));
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[]}).to({state:[{t:this.instance},{t:this.mulaiBtn}]},5).to({state:[{t:this.kuisMC},{t:this.timerKuis}]},4).to({state:[]},1).wait(3));
 
 	// BG
 	this.instance_1 = new lib.birutoscahd();
 	this.instance_1.setTransform(0,0,0.75,0.6686);
 	this.instance_1._off = true;
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_1).wait(1).to({_off:false},0).wait(11));
+	this.timeline.addTween(cjs.Tween.get(this.instance_1).wait(1).to({_off:false},0).wait(12));
 
 	this._renderFirstFrame();
 
@@ -744,7 +745,9 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/Soal音_atlas_1.png?1727664355981", id:"Soal音_atlas_1"}
+		{src:"images/Soal音_atlas_1.png", id:"Soal音_atlas_1"},
+		{src:"sounds/dui.mp3", id:"dui"},
+		{src:"sounds/cuo.mp3", id:"cuo"}
 	],
 	preloads: []
 };
